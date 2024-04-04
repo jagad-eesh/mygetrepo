@@ -17,3 +17,6 @@ This paragraph some `variable` in the code
 ```java script
 let num = Math.random()
 ```
+| heading | header | head|
+ | --- | --- | --- |
+ | content | more content | text |
