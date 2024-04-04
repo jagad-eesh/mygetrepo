@@ -11,3 +11,9 @@ iam from andhrapradesh
   3. docker
 This paragraph some `variable` in the code
 `Reddi Jagadeesh`
+```html
+<h1> This is jagadeesh </h1>
+```
+```java script
+let num = Math.random()
+```
